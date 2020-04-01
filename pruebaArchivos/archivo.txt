@@ -1,0 +1,6 @@
+Contenido escrito en el archivo
+
+Fin de escritura
+Anexando mas informacion al archivo
+
+Fin de anexar

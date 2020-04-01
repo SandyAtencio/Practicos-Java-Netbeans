@@ -1,0 +1,9 @@
+peliculas\execepciones\AccesoDatosEx.class
+peliculas\negocio\CatalogoPeliculas.class
+peliculas\domain\Pelicula.class
+peliculas\negocio\CatalogoPeliculasImpl.class
+com\mycompany\laboratoriofinal\LaboratorioFinal.class
+peliculas\execepciones\LecturaDatosEx.class
+peliculas\execepciones\EscrituraDatosEx.class
+peliculas\datos\AccesoDatos.class
+peliculas\datos\AccesoDatosImpl.class
